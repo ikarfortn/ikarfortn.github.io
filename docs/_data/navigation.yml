@@ -2,7 +2,7 @@ docs:
   - title: Reinforcement learning
     children:
       - title: "Chapter 1"
-        url: /ikarfortn.github.io/docs/_posts/chap1/
+        url: /ikarfortn.github.io/docs/_site/ikarfortn.github.io/
         #http://127.0.0.1:4000/ikarfortn.github.io/docs/_posts/chap1/
         #/Users/nike/ikarfortn/ikarfortn.github.io/docs/_site/2021/12/20/chap1.html
       # - title: "Structure"
