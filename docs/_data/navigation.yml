@@ -1,0 +1,31 @@
+docs:
+  - title: Reinforcement learning
+    children:
+      - title: "Chapter 1"
+        url: /ikarfortn.github.io/docs/_posts/chap1/
+        #http://127.0.0.1:4000/ikarfortn.github.io/docs/_posts/chap1/
+        #/Users/nike/ikarfortn/ikarfortn.github.io/docs/_site/2021/12/20/chap1.html
+      # - title: "Structure"
+      #   url: /docs/structure/
+      # - title: "Installation"
+      #   url: /docs/installation/
+      # - title: "Upgrading"
+      #   url: /docs/upgrading/
+
+
+  # - title: Uniwork
+  #   children:
+  #     - title: COA
+  #         children:
+  #           - title: unit 1
+  #             url: /docs/coa/unit1/
+  #     - title: ADE
+  #         children:
+  #          - title: unit 1
+  #            url: /docs/ade/unit1/
+  #     # - title: "UI Text"
+  #     #   url: /docs/ui-text/
+  #     # - title: "Authors"
+  #     #   url: /docs/authors/
+  #     # - title: "Layouts"
+  #     #   url: /docs/layouts/
