@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Land in space"
+title:  "Intro"
 date:   2021-12-20 
 sidebar:
     nav: "docs"
 ---
 
-Find notes, explanations, memory commits and more here. 
+This page consists of notes and space repetition cards based off orbit. 
