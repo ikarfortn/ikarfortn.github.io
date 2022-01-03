@@ -3,6 +3,12 @@ docs:
     children:
       - title: "Chapter 1"
         url: /docs/chap1/
+      - title: "Productivity"
+        url: /docs/pro/
+  # - title: COA
+  #   children:
+  #     - title: "UNIT 1"
+  #       url: /docs/unit1/
         #permalink: ikarfortn.github.io/docs/_posts/chap1/
         #url: /ikarfortn.github.io/docs/_site/ikarfortn.github.io/
         #ikarfortn.github.io/docs/chap1 -doesnt work
@@ -16,9 +22,6 @@ docs:
       #   url: /docs/upgrading/
 
 
-  # - title: Uniwork
-  #   children:
-  #     - title: COA
   #         children:
   #           - title: unit 1
   #             url: /docs/coa/unit1/
