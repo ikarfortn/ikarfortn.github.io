@@ -3,6 +3,8 @@ docs:
     children:
       - title: "Chapter 1"
         url: /docs/chap1/
+  - title: Personal 
+    children:
       - title: "Productivity"
         url: /docs/pro/
       - title: "Rough interests"
