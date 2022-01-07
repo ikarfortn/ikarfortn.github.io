@@ -5,6 +5,8 @@ docs:
         url: /docs/chap1/
       - title: "Productivity"
         url: /docs/pro/
+      - title: "Rough interests"
+        url: /docs/pro/
   # - title: COA
   #   children:
   #     - title: "UNIT 1"
