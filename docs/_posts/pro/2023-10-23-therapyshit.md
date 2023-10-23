@@ -3,7 +3,7 @@ layout: post
 title: "Read everyday"
 date: 2023-10-23
 toc: true
-permalink: /docs/pro/readeveryday
+permalink: /docs/readeveryday
 ---
 
 # Controlling emotions and stoicism 
