@@ -1,3 +1,9 @@
+layout: post
+title: "Read everyday"
+date: 2023-10-23
+toc: true
+permalink: /docs/pro/readeveryday
+
 # Controlling emotions and stoicism 
 ## Refocus on the present
 Acceptance starts with acknowledging the reality of something, without judgment. Like... if I'm outside doing something and it starts to rain, no matter how much I shake my fist at the sky the rain ain't gonna stop, so I might as well accept the reality of the situation and then refocus on what I can do for myself.
