@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Productivity"
-date:   2021-12-20 
+date:   2021-02-25
 toc: true
 permalink: /docs/pro/
 #url: http://127.0.0.1:4000/ikarfortn.github.io/docs/_posts/chap1/#chapter-1
