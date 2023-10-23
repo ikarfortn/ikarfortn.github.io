@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Read everyday"
-date: 2023-10-23
+layout: single
+title:  "read everyday"
+date:   2023-10-22
 toc: true
-permalink: /docs
+permalink: /docs/pro/
 ---
 
 # Controlling emotions and stoicism 
